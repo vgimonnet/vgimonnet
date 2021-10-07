@@ -4,7 +4,7 @@ Je suis développeur Symfony dans le cadre de mon alternance et développeur Nod
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; Me stats Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgimonnet&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
