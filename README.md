@@ -13,11 +13,12 @@ Je suis développeur Symfony dans le cadre de mon alternance et développeur Nod
 ## 📫 Comment me contacter ?
 - 0637359460
 - valentin.gimonnet18@gmail.com
-- ![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg) https://www.linkedin.com/in/valentin-gimonnet-73133b182/
+- https://www.linkedin.com/in/valentin-gimonnet-73133b182/
+- https://portfolio.vgimonnet.fr
 
 ---
 
-## &#x1f4c8; Me stats Github
+## &#x1f4c8; Mes stats Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgimonnet&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
