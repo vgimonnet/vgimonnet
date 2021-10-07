@@ -10,12 +10,19 @@ Je suis développeur Symfony dans le cadre de mon alternance et développeur Nod
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vgimonnet&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+---
 
-- 📫 Comment me contacter ?
-0637359460 ou valentin.gimonnet18@gmail.com
+
+## 👀 Je suis intéressé par :
+- Développement Web
+- Nouvelle technologie
+
+## 🌱 Je suis entrain d'apprendre :
+- DevOps
+- Arduino
+
+## 📫 Comment me contacter ?
+- 0637359460 ou valentin.gimonnet18@gmail.com
 
 <!---
 vgimonnet/vgimonnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
