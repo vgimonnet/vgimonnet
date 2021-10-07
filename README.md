@@ -1,5 +1,6 @@
 # 👋 Hello, je suis Valentin Gimonnet
 Etudiant en dernière année de Master Développement Web à l'[ECV Digital Paris](https://www.ecv.fr/), j'entame ma 3ème année d'alternance chez [Acatus Informatique](https://www.acatus.fr/).
+Je suis développeur Symfony dans le cadre de mon alternance et développeur NodeJs et VueJs dans le cadre de mes projets personnels.
 
 ---
 
@@ -12,7 +13,9 @@ Etudiant en dernière année de Master Développement Web à l'[ECV Digital Pari
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 📫 Comment me contacter ?
+0637359460 ou valentin.gimonnet18@gmail.com
 
 <!---
 vgimonnet/vgimonnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
