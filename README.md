@@ -13,7 +13,7 @@ Je suis développeur Symfony dans le cadre de mon alternance et développeur Nod
 ## 📫 Comment me contacter ?
 - 0637359460
 - valentin.gimonnet18@gmail.com
-- ![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg) https://www.linkedin.com/in/valentin-gimonnet-73133b182/
+- ![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg) https://www.linkedin.com/in/valentin-gimonnet-73133b182/
 
 ---
 
