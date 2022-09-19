@@ -1,5 +1,5 @@
 # 👋 Hello, je suis Valentin Gimonnet
-Tout fraîchement diplomé d'une Mastère en Développement Web à l'[ECV Digital Paris](https://www.ecv.fr/), je viens de rejoindre la famille Wizards Technologies.
+Tout fraîchement diplomé d'un Mastère en Développement Web à l'[ECV Digital Paris](https://www.ecv.fr/), je viens de rejoindre la famille Wizards Technologies sur Paris !
 J'ai principalement été développeur Symfony dans le cadre de mes expériences professionnelles, mais je suis aussi développeur NodeJs et VueJs dans le cadre de mes projets personnels.
 
 ## 👀 Je suis intéressé par :
