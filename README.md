@@ -1,14 +1,15 @@
 # 👋 Hello, je suis Valentin Gimonnet
-Etudiant en dernière année de Master Développement Web à l'[ECV Digital Paris](https://www.ecv.fr/), j'entame ma 3ème année d'alternance chez [Acatus Informatique](https://www.acatus.fr/).
-Je suis développeur Symfony dans le cadre de mon alternance et développeur NodeJs et VueJs dans le cadre de mes projets personnels.
+Tout fraîchement diplomé d'une Mastère en Développement Web à l'[ECV Digital Paris](https://www.ecv.fr/), je viens de rejoindre la famille Wizards Technologies.
+J'ai principalement été développeur Symfony dans le cadre de mes expériences professionnelles, mais je suis aussi développeur NodeJs et VueJs dans le cadre de mes projets personnels.
 
 ## 👀 Je suis intéressé par :
 - Développement Web
 - Nouvelles technologies
+- Eco-conception web
 
 ## 🌱 Je suis entrain d'apprendre/me former :
 - DevOps
-- Arduino
+- Angular
 
 ## 📫 Comment me contacter ?
 - 0637359460
